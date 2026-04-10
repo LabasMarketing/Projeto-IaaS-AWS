@@ -4,7 +4,7 @@ Projeto desenvolvido com foco em **containerização, arquitetura em nuvem e dep
 
 ## 👨‍💻 Desenvolvedores
 
-- José Pedro Bitetti  
+- [José Pedro Bitetti](https://github.com/JP18090)
 - [Gustavo Netto](https://github.com/gustavonc05)  
 - Gabriel Labarca Del Bianco  
 
