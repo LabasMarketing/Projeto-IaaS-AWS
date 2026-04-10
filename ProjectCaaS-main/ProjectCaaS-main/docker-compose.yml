@@ -1,0 +1,16 @@
+services:
+  backend:
+    build: ./backend
+    container_name: todo-backend
+    ports:
+      - "25000:25000"
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    container_name: todo-frontend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - backend
+    restart: unless-stopped
