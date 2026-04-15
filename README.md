@@ -141,6 +141,10 @@ A API está disponível na porta **25000** (acesso direto) ou via proxy Nginx na
 | `PUT` | `/items/{id}` | Atualizar um item |
 | `DELETE` | `/items/{id}` | Remover um item |
 
+<img width="1919" height="1032" alt="im2" src="https://github.com/user-attachments/assets/d1b0bc14-73f3-46ae-9cef-bf82e3d371cd" />
+
+<img width="1919" height="1035" alt="im1" src="https://github.com/user-attachments/assets/a1b277be-dd0e-4d02-891b-0b6665d3dce7" />
+
 ---
 
 ## 🧠 Aprendizados
